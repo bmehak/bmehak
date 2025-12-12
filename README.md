@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bmehak
-- 👀 I’m interested in App and Web Development
-- 🌱 I’m currently learning programming languages
+- 👀 I’m interested in Competitive Programming, Data Science, Machine Learning, Data Analytics
+- 🌱 I'm skilled in C,C++,Python, Assembly Language, Verilog, Shell/Bash 
 - 📫 How to reach me : bhoomikachourasiya84@gmail.com
 
 <!---
